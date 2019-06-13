@@ -46,7 +46,10 @@ class _SIFormState extends State<SIForm> {
             title: Text(
           "Interest Calculator",
           style: TextStyle(color: Colors.white),
-        )), //AppBar
+        ),
+        actions: <Widget>[
+          PopupMenuButton(itemBuilder: null)
+        ],), //AppBar
 
         body: Form(
             key: _formkey,
