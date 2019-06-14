@@ -1,3 +1,7 @@
 # SI_Calculator
 
 A Simple Interest Calculator using Flutter framework that takes Principal amount, Rate of Interest, Term and Currency as the Input and displays the Total Amount.
+
+#Screenshots of Simple Interest Calculator Application
+
+<img src="ss_1.png" height="300em" /> <img src="ss_2.png" height="300em" /> <img src="ss_3.png" height="300em" /> <img src="ss_4.png" height="300em" /> <img src="ss_5.png" height="300em" /> <img src="ss_6.png" height="300em" /> 
